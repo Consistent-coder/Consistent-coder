@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Consistent-coder
-- 👀 I’m interested coding and web development
+- 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me ...
